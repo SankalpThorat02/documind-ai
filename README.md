@@ -36,7 +36,7 @@ This is v1.0: a solid foundation you can extend. Real JWT auth, real SSE streami
 ### 1. Clone and configure
 
 ```bash
-git clone https://github.com/daoninhthai/ai-chatbot-spring.git
+git clone https://github.com/SankalpThorat02/documind-ai.git
 cd ai-chatbot-spring
 cp .env.example .env
 ```
