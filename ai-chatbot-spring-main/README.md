@@ -1,6 +1,6 @@
 # AI Chatbot - Spring Boot + React
 
-A production-ready AI chatbot that actually works. Built with Spring Boot 3.4, Spring AI, and React — not another copy-paste tutorial project.
+A production-ready AI chatbot that actually works. Built with Spring Boot 3.4, Spring AI, and React.
 
 This is v1.0: a solid foundation you can extend. Real JWT auth, real SSE streaming (not the fake kind that splits text by spaces), real RAG with pgvector, and a clean React UI with dark mode.
 
@@ -122,18 +122,3 @@ ai-chatbot-spring/
 ├── docker-compose.dev.yml    # Dev database
 └── Dockerfile                # Multi-stage build
 ```
-
-## What's Next (v2.0 Ideas)
-
-- [ ] WebSocket support for multi-user real-time chat
-- [ ] Admin dashboard with usage analytics
-- [ ] Multiple AI model support (Claude, Gemini)
-- [ ] File preview in the knowledge base
-- [ ] Chat export (PDF, Markdown)
-- [ ] Token usage tracking and billing
-
-## Author
-
-Built by **Thai Dao** ([@daoninhthai](https://github.com/daoninhthai)) — Java Full Stack Developer.
-
-If you're looking for someone to build AI-powered applications, chatbots, or enterprise backends with Spring Boot, feel free to reach out.
